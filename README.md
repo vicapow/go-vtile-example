@@ -1,6 +1,6 @@
 # An example Go app for dynamically serving MapboxGL vector tiles
 
-![](https://cloud.githubusercontent.com/assets/583385/16578797/4cbf4d8a-4251-11e6-9f4c-75820d220405.pn)
+![](https://cloud.githubusercontent.com/assets/583385/16578797/4cbf4d8a-4251-11e6-9f4c-75820d220405.png)
 
 ## Installation
 
