@@ -12,6 +12,15 @@ To install, ensure github.com/golang/protobuf/proto is installed and available o
 
     go run main.go
 
+## Docker
+
+To install/run in Docker instead of natively:
+
+```
+docker build -t go-vtile-example .
+docker run -d -p 8080:8080 go-vtile-example
+```
+
 ## To view the tiles
 
 To view the tiles, you'll need to modify your MapboxGL style to add an additional vector tile layer. Here's an example:
